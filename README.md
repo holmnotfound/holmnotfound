@@ -7,7 +7,7 @@ Frontend student with a passion for **design, animations** and bringing ideas to
 
 ### 📚 Currently Learning
 
-- 🧠 **React & modern CSS tricks**
+- 🧠 **Node.js**
 - 🎨 Deepening my understanding of **UI/UX & responsive design**
 - 💾 Building small projects to grow and sharpen my skills!
 
@@ -27,7 +27,7 @@ Frontend student with a passion for **design, animations** and bringing ideas to
 ### 🌐 Links
 
 - 💼 [LinkedIn](https://linkedin.com/in/emilia)  
-- 🖼️ [Portfolio](https://dinportfolio.com)  
+- 🖼️ [Portfolio](https://holmnotfound.github.io/portfolio2025/)  
 
 ---
 
