@@ -26,7 +26,7 @@ Frontend student with a passion for **design, animations** and bringing ideas to
 
 ### 🌐 Links
 
-- 💼 [LinkedIn](https://linkedin.com/in/emilia)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/emilia-holmqvist-64b73b1b9/)  
 - 🖼️ [Portfolio](https://holmnotfound.github.io/portfolio2025/)  
 
 ---
