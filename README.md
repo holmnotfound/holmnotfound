@@ -7,7 +7,7 @@ Frontend student with a passion for **design, animations** and bringing ideas to
 
 ### 📚 Currently Learning
 
-- 🧠 **Node.js**
+- 🧠 **Typescript**
 - 🎨 Deepening my understanding of **UI/UX & responsive design**
 - 💾 Building small projects to grow and sharpen my skills!
 
