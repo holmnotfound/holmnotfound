@@ -7,7 +7,7 @@ Frontend student with a passion for **design, animations** and bringing ideas to
 
 ### 📚 Currently Learning
 
-- 🧠 **Typescript And React Native**
+- 🧠 **React Native**
 - 🎨 Deepening my understanding of **UI/UX & responsive design**
 - 💾 Building small projects to grow and sharpen my skills!
 
@@ -21,6 +21,10 @@ Frontend student with a passion for **design, animations** and bringing ideas to
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?logo=adobe&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
 ---
 
